@@ -31,5 +31,3 @@ TARGET_KERNEL_CONFIG += vendor/lge/h850.config
 
 # inherit from the proprietary version
 include vendor/lge/h850/BoardConfigVendor.mk
-
-BOARD_PRODUCTIMAGE_MINIMAL_PARTITION_RESERVED_SIZE := true
